@@ -85,7 +85,10 @@ Example: ```UPDATE Employees SET age = 31 WHERE name = 'John Doe'```;
 
 31. DELETE FROM Clause
 Purpose: Removes rows from a table.
-Example: ```DELETE FROM Employees WHERE age < 25```;
+Example:
+```
+DELETE FROM Employees WHERE age < 25;
+```
 
 33. CASE Clause
 Purpose: Allows you to perform conditional logic in a query.

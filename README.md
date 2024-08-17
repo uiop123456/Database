@@ -8,5 +8,7 @@ Purpose: Specifies the table(s) from which to retrieve or delete data.
 Example: ```SELECT * FROM Employees```;
 
 3. WHERE Clause
-Purpose: Used to filter records based on specific conditions.
-Example: ```SELECT * FROM Employees WHERE age > 30```;
+- Purpose: Used to filter records based on specific conditions.
+- Example: ```SELECT * FROM Employees WHERE age > 30```;
+
+
